@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana;
+	background-image: url(bg.jpg);
+}
+.element{
+	background-color: gray;
+	border: 2px solid black;
+	padding: 15px;
+	border-radius: 20px;
+	opacity: 0.9;
+	width: 500px;
+	margin: auto;
+}
+.header{
+	height: 100px;
+	background-image: url(bg2.jpg);
+}
+.menu{
+	height: 25px;
+	background-image: url(menybg.jpg);
+}
+.body{
+	height: 400px;
+}
+.footer{
+	height: 30px;
+	background-color: black;
+	color: gray;
+	font-size: 10px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #123e6a;
+	font-weight: bold;
+}
+a:hover{
+	color:red;
+	text-decoration: underline;
+}
